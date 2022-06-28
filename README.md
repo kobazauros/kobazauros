@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Konstantin bantov
+- 👋 Hi, I’m Konstantin Bantov
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python, Jupyter Notebook, pandas, numpy, matplotlib
 - 💞️ I’m looking to collaborate on Data Analysis projects
